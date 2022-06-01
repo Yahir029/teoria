@@ -42,7 +42,8 @@ body{
 }
 
 .header {
-    background: rgb(14, 75, 70);
+    
+    background: rgb(3, 49, 43);
     color: white;
     padding: 2rem 0;
     position: fixed;
