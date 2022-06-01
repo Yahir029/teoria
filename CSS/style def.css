@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(Images/ImagenF.jpg);
+    background: url(images/modelo-base-de-datos-00.jpg);
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
@@ -30,13 +30,13 @@ body{
 
 .main  p{
     float: left;
-    width: 650px;
-    height: 175px;
+    width: auto;
+    height: auto;
     background-color: rgba(0, 255, 255, 0.507);
     color: white;
     font-size: 1.26em;
     text-align: left;
-    margin-left:2em;
+    margin-left:1em;
     max-width: 850px;
     
 }

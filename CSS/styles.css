@@ -2,7 +2,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(Images/ImagenF.jpg);
+    background: url(images/modelo-base-de-datos-00.jpg);
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
@@ -22,18 +22,57 @@ body{
 }
 
 .container {
-    width: 85%;
-    max-width: 850px;
-    margin: 0 auto;
-}
 
+    color: white;
+    width: 70%;
+    margin: auto;
+}
+    
+.main  p{
+    float: left;
+    width: 850px;
+    height: 200pxs;
+    background-color: rgba(66, 0, 0, 0.719);
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    margin-left:2em;
+    max-width: 850px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.Upiicsa {
+    float: left;
+    width: 850px;
+    height: 200pxs;
+    background-color: rgba(1, 65, 12, 0.795);
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    margin-left:2em;
+    max-width: 850px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Lic {
+    width: 70%;
+    margin: 4em;
+    float: right;
+    width: auto;
+    height: auto;
+    background-color: rgba(0, 68, 255, 0.589);
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    max-width: 850px;
+    font-family: 'Times New Roman', Times, serif;
+}
 .container
 r texto1 {
     font-family: 'Open Sans', sans-serif;
     float: left;
     width: 850px;
     height: 200px;
-    background-color: rgba(0, 68, 255, 0.589);
+    background-color: rgb(14, 75, 70);
     color: rgb(255, 255, 255);
     font-size: 4em;
     text-align: center;

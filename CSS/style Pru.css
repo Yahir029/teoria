@@ -10,21 +10,45 @@ body{
 
 .Titulo {
     font-family: 'Open Sans', sans-serif;
-    float: left;
+    float: center;
     width: 850px;
     height: 100px;
     background-color: rgba(0, 68, 255, 0.589);
     color: rgb(255, 255, 255);
     font-size: 2em;
     text-align: center;
-   
+    margin: auto;
+    max-width: 750px;
+      
+}
+.container {
+
+    color: white;
+    width: 70%;
+    margin: auto;
+}
+    
+.main  p{
+    float: left;
+    width: auto;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.507);
+    color: white;
+    font-size: 1.26em;
+    text-align: left;
+    margin-left:2em;
+    max-width: 850px;
+    
 }
 
-
-.container {
-    width: 85%;
-    max-width: 850px;
-    margin: 0 auto;
+.container img{
+    width: auto;
+    height: auto;
+    border-radius: auto;
+    float: CENTER;
+    margin-top: auto;
+    margin-right: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0,5);
 }
 
 .header {
@@ -38,8 +62,6 @@ body{
 }
 
 
- 
- 
  .header a {
         color:white;
         text-decoration: none;

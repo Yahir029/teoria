@@ -22,9 +22,32 @@ body{
 
 
 .container {
-    width: 85%;
+
+    color: white;
+    width: 70%;
+    margin: auto;
+}
+    
+.main  p{
+    float: left;
+    width: auto;
+    height: auto;
+    background-color: rgba(0, 161, 81, 0.829);
+    color: white;
+    font-size: 1.26em;
+    text-align: left;
+    margin-left:2em;
     max-width: 850px;
-    margin: 0 auto;
+    
+}
+.container img{
+    width: auto;
+    height: auto;
+    border-radius: auto;
+    float: left;
+    margin-top: auto;
+    margin-right: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0,5);
 }
 
 .header {
